@@ -1,0 +1,11 @@
+{
+  "name": "changedomainapp",
+  "version": "1.0.0",
+  "description": "The function has to change old domain to new domain",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Sabarni Pradhan",
+  "license": "ISC"
+}
